@@ -1,0 +1,73 @@
+# Career-Ops Profile Configuration
+# Single source of truth for personal data across all modes.
+
+candidate:
+  full_name: "Akshat Singh"
+  email: "akshatsinghh01@gmail.com"
+  phone: "+49 176 3295 0472"
+  location: "Berlin, Germany"
+  linkedin: ""
+  portfolio_url: ""
+  github: ""
+  twitter: ""
+
+target_roles:
+  primary:
+    - "Working Student - Marketing"
+    - "Working Student - Growth / Social Media"
+  archetypes:
+    - name: "Working Student Marketing"
+      level: "Student"
+      fit: "primary"
+    - name: "Working Student Social Media / Content"
+      level: "Student"
+      fit: "primary"
+    - name: "Working Student Growth / Campaign"
+      level: "Student"
+      fit: "secondary"
+    - name: "Marketing Intern / Praktikum"
+      level: "Entry"
+      fit: "adjacent"
+
+narrative:
+  headline: "Grassroots marketer who runs neuromarketing experiments on the street, not in slides"
+  exit_story: "Founder-turned-operator: ran a marketing agency for restaurants in India, moved to Berlin, and now validates growth strategies hands-on with 3 local restaurants. Looking for a working-student marketing role where ground-level behavioural insight beats budget."
+  superpowers:
+    - "Ground-level neuromarketing — engineering real human behaviour (peer influence, social proof, footfall signals) to drive demand with near-zero budget"
+    - "Founder mindset — built and ran a marketing agency end-to-end (client acquisition to execution)"
+    - "Grassroots growth — scaled a tea stall into a full shop in a year; sold out an online store via SEO in six months"
+    - "Hospitality / restaurant marketing — currently advising 3 Berlin restaurants"
+    - "Creativity + psychological insight + humour applied to campaigns"
+  proof_points:
+    - name: "Rolls Inc (Berlin) — delivery-rider referral channel + visible-demand engineering"
+      url: ""
+      hero_metric: "Repositioned product vs. established category; built rider pamphlet/referral loop"
+    - name: "Tea Stall Scale-Up"
+      url: ""
+      hero_metric: "Stall → full shop in 12 months via grassroots peer-influence tactics"
+    - name: "Online Handcrafted Suit Store"
+      url: ""
+      hero_metric: "Sold out full inventory in 6 months via Google SEO"
+
+compensation:
+  target_range: "1500-2500 EUR/month"
+  currency: "EUR"
+  minimum: "1500 EUR/month"
+  location_flexibility: "Berlin (on-site/hybrid fine); remote within Germany OK"
+
+location:
+  country: "Germany"
+  city: "Berlin"
+  timezone: "CET"
+  visa_status: "Working student (student visa)"
+
+language:
+  # German job postings are common in Berlin. Keep English modes by default,
+  # but only target roles requiring B1 German or less (see modes/_profile.md).
+  modes_dir: "modes"
+
+cv:
+  output_format: "html"
+
+# Auto-generate a tailored CV PDF only for stronger matches during pipeline/batch.
+auto_pdf_score_threshold: 4.0
