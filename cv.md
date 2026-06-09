@@ -2,6 +2,7 @@
 
 **Marketing Manager / Growth Strategist**
 
+- 🎓 M.Sc. International Management student @ Hochschule Fresenius (Werkstudent eligible, until Apr 2027)
 - 📍 Dorfstraße 7, Berlin, Germany
 - 📧 akshatsinghh01@gmail.com
 - 📱 +49 176 3295 0472
@@ -58,6 +59,7 @@ Strategically intelligent and creatively driven marketing professional motivated
 
 ## Education
 
+- **M.Sc. International Management (MIM)** — Hochschule Fresenius, Berlin *(currently enrolled — expected April 2027; Werkstudent eligible)*
 - **B.Tech, Mechanical Engineering** — Manipal University Jaipur, Rajasthan (2021 – 2023)
 - **B.Tech, Mechanical Engineering** — Manipal Academy of Higher Education (2019 – 2021)
 - **Senior Secondary (Science)** — Delhi Public School, Lucknow (2017 – 2018)

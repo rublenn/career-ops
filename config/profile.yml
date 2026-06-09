@@ -61,6 +61,13 @@ location:
   timezone: "CET"
   visa_status: "Working student (student visa)"
 
+education:
+  current: "M.Sc. International Management (MIM)"
+  university: "Hochschule Fresenius, Berlin"
+  enrolled: true
+  expected_graduation: "2027-04"
+  werkstudent_eligible: true
+
 language:
   # German job postings are common in Berlin. Keep English modes by default,
   # but only target roles requiring B1 German or less (see modes/_profile.md).
